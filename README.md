@@ -21,10 +21,6 @@ The webpage [UFO Sightings - The Truth is Out There]( https://namu12345.github.i
 
 ![image](https://user-images.githubusercontent.com/92283185/149230605-d500e0bd-4069-4072-b6e5-a8c90790f68c.png)
 
-You will notice that a **"Filter Search"** section has been added.
-
-![image](https://user-images.githubusercontent.com/92283185/149233404-3a78318b-492d-4249-b960-a90750aa1aeb.png)
-
 You can filter by one or all of the search criteria shown. For example, if you search by **"City"**, you will see that the table updated to show the reported sightings that was recorded for that specific city.
 
 ![image](https://user-images.githubusercontent.com/92283185/149234502-4ab9a1a8-5099-4acb-b326-44feca5f5926.png)
@@ -32,6 +28,10 @@ You can filter by one or all of the search criteria shown. For example, if you s
 If you add a **shape**, the table will update filtering further to only display the information containing that shape.
 
 ![image](https://user-images.githubusercontent.com/92283185/149234791-05ceda51-9dc5-413b-9fbe-febe16027407.png)
+
+Similarly, we can filter one by one each option that are shown in  **"Filter Search"** below :
+
+![image](https://user-images.githubusercontent.com/92283185/149233404-3a78318b-492d-4249-b960-a90750aa1aeb.png)
 
 ## Summary
 ### Drawbacks:
